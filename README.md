@@ -1,26 +1,79 @@
-# 💫 About Me:
-Hi 👋 I'm Bitu Kumar  <br><br>💻 Software Developer  <br>🌱 Currently learning DSA, JavaScript, and Git/GitHub  <br>🚀 Interested in building clean and efficient code  <br>📚 Always learning, always improving  <br><br>✨ "Consistency beats talent."<br>
+# 👋 Hey there! I'm Bitu Kumar  
 
+<div align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%F0%9F%9A%80;AI+%26+ML+Explorer+%F0%9F%A7%A0;Web3+Developer+%F0%9F%8C%90;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />    
+</div>
+ 
+## 🚀 About Me.
+ 
+🔭 I'm a tech enthusiast who loves diving into new challenges, whether it's solving complex algorithms or exploring the latest AI trends. Outside of tech, you'll find me exploring music, gaming, and the latest in pop culture!
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bitu kumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bitu_kumar_1269) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bitu Kumar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Bitu kumar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Bitu kumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BituKumar1269) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Bitu kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bitukumar1269@gmail.com) 
+## 💬 Ask Me About 
+ 
+- 🧠 **AI & Machine Learning** - Neural networks to deep learning
+- 🌐 **Web Development** - Building the imagination 
+- ☁️ **Cloud Computing** - Scalable solutions and architecture
+ 
+## 👯 Looking to Collaborate On
+ 
+- 🏆 Open-source contributor
+- 💡 Creative problem-solving challenges
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+## 🛠️ Technologies & Tools 
+ 
 
-![snake gif](https://github.com/Bitu1269/Bitu1269/blob/output/github-snake-dark.svg)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bitu1269&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bitu1269&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bitu1269&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- <p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,html,css,gcp,postman,git,linux,java,javascript,typescript,react,vite,aws,mysql,next,netlify,mongodb,express,nodejs,figma,tailwind,discord,fastapi,flask,github,kali,md,opencv,pytorch,sklearn,vercel,yarn,npm,unity,githubactions,cloudflare,powershell,terraform,docker,streamlit,jenkins,go,anaconda&perline=8&theme=dark" />
+</p> -->
+<p align="center">
+<img src=https://skills.syvixor.com/api/icons?perline=8&i=python,cpp,c,html,css3,tailwindcss,nextjs,typescript,javascript,reactjs,reactnative,vite,mysql,postgresql,mongodb,expressjs,nodejs,replit,postman,googlecloud,amazonwebservices,googlecolaboratory,tensorflow,pytorch,jupyter,anaconda,fastapi,flask,opencv,streamlit,docker,discord,git,gitbash,githubcopilot,github,githubpages,githubactions,markdown,netlify,unrealengine,linux,kalilinux,npm,yarn,powershell,curl,cloudflare,jenkins,golang,canva,gemini>
+</p>
+ 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bitu1269&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🎯 Fun Facts
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🎮 Gaming enthusiast who codes between matches 
+- 🎵 Music lover - coding playlist has 500+ songs
+- 🌙 Night owl - best code happens after midnight
+- ☕ Coffee dependency level: CRITICAL
+- 🚀 Dream: Build the next unicorn startup
+
+## 📊 GitHub Stats 
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=param20h&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+</div>
+
+<div align="center"> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=param20h&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Bitu1269/Bitu1269/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions Snake" />
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+## 🌐 Connect with Me.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bitu kumar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Bitu1269)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bitu_kumar_1269)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bitu1269&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=param20h&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/param20h?label=Followers&style=social" alt="GitHub Followers" />
+</div>
