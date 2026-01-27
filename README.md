@@ -12,7 +12,7 @@
  
 - 🧠 **AI & Machine Learning** - Neural networks to deep learning
 - 🌐 **Web Development** - Building the imagination 
-- ☁️ **Cloud Computing** - Scalable solutions and architecture
+- ☁️ **DevOps** - Scalable solutions and architecture
  
 ## 👯 Looking to Collaborate On
  
@@ -40,20 +40,14 @@
 
 ## 📊 GitHub Stats 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=param20h&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=param20h&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-</div>
 
-<div align="center"> 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=param20h&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Bitu1269/Bitu1269/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions Snake" />
+  <img src="https://github.com/Bitu1269/Bitu1269/blob/output/github-snake-dark.svg" alt="GitHub Contributions Snake" />
 </div>
+<!-- ![snake gif](https://github.com/Bitu1269/Bitu1269/blob/output/github-snake-dark.svg) -->
 
 ## 💭 Random Dev Quote
 
@@ -65,7 +59,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bitu kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bitu-kumar-825815284)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Bitu1269)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bitu_kumar_1269)
 
