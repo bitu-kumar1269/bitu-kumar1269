@@ -6,7 +6,13 @@
  
 ## 🚀 About Me.
  
-🔭 I'm a tech enthusiast who loves diving into new challenges, whether it's solving complex algorithms or exploring the latest AI trends. Outside of tech, you'll find me exploring music, gaming, and the latest in pop culture!
+💻 Software Developer  
+📘 Strong in JAVA and DSA  
+🌐 Learning Web Development  
+🔧 Exploring Git, GitHub, and Open Source  
+
+📫 Let's build and grow together!
+
 
 ## 💬 Ask Me About 
  
@@ -18,6 +24,12 @@
  
 - 🏆 Open-source contributor
 - 💡 Creative problem-solving challenges
+- 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Bitu1269/Bitu1269/blob/output/github-snake-dark.svg" alt="GitHub Contributions Snake" />
+</div>
 
 ## 🛠️ Technologies & Tools 
  
@@ -40,13 +52,10 @@
 
 ## 📊 GitHub Stats 
 
+![](https://github-readme-stats.vercel.app/api?username=Bitu1269&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bitu1269&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bitu1269&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Bitu1269/Bitu1269/blob/output/github-snake-dark.svg" alt="GitHub Contributions Snake" />
-</div>
 <!-- ![snake gif](https://github.com/Bitu1269/Bitu1269/blob/output/github-snake-dark.svg) -->
 
 ## 💭 Random Dev Quote
