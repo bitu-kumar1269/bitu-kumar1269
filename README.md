@@ -36,14 +36,6 @@
 </p> -->
  
 
-## 🎯 Fun Facts
-
-- 🎮 Gaming enthusiast who codes between matches 
-- 🎵 Music lover - coding playlist has 500+ songs
-- 🌙 Night owl - best code happens after midnight
-- ☕ Coffee dependency level: CRITICAL
-- 🚀 Dream: Build the next unicorn startup
-
 ## 📊 GitHub Stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=Bitu1269&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
